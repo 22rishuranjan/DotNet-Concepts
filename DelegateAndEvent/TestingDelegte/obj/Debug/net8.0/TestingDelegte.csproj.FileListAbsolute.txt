@@ -1,0 +1,11 @@
+D:\Dev\.net\core-concepts\DelegateAndEvent\TestingDelegte\obj\Debug\net8.0\TestingDelegte.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\.net\core-concepts\DelegateAndEvent\TestingDelegte\obj\Debug\net8.0\TestingDelegte.AssemblyInfoInputs.cache
+D:\Dev\.net\core-concepts\DelegateAndEvent\TestingDelegte\obj\Debug\net8.0\TestingDelegte.AssemblyInfo.cs
+D:\Dev\.net\core-concepts\DelegateAndEvent\TestingDelegte\obj\Debug\net8.0\TestingDelegte.csproj.CoreCompileInputs.cache
+D:\Dev\.net\core-concepts\DelegateAndEvent\TestingDelegte\bin\Debug\net8.0\TestingDelegte.deps.json
+D:\Dev\.net\core-concepts\DelegateAndEvent\TestingDelegte\bin\Debug\net8.0\TestingDelegte.dll
+D:\Dev\.net\core-concepts\DelegateAndEvent\TestingDelegte\bin\Debug\net8.0\TestingDelegte.pdb
+D:\Dev\.net\core-concepts\DelegateAndEvent\TestingDelegte\obj\Debug\net8.0\TestingDelegte.dll
+D:\Dev\.net\core-concepts\DelegateAndEvent\TestingDelegte\obj\Debug\net8.0\refint\TestingDelegte.dll
+D:\Dev\.net\core-concepts\DelegateAndEvent\TestingDelegte\obj\Debug\net8.0\TestingDelegte.pdb
+D:\Dev\.net\core-concepts\DelegateAndEvent\TestingDelegte\obj\Debug\net8.0\ref\TestingDelegte.dll

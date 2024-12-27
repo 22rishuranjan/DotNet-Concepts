@@ -1,0 +1,11 @@
+D:\Dev\.net\core-concepts\DelegateAndEvent\Subscriber\bin\Debug\net8.0\Subscriber.deps.json
+D:\Dev\.net\core-concepts\DelegateAndEvent\Subscriber\bin\Debug\net8.0\Subscriber.dll
+D:\Dev\.net\core-concepts\DelegateAndEvent\Subscriber\bin\Debug\net8.0\Subscriber.pdb
+D:\Dev\.net\core-concepts\DelegateAndEvent\Subscriber\obj\Debug\net8.0\Subscriber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\.net\core-concepts\DelegateAndEvent\Subscriber\obj\Debug\net8.0\Subscriber.AssemblyInfoInputs.cache
+D:\Dev\.net\core-concepts\DelegateAndEvent\Subscriber\obj\Debug\net8.0\Subscriber.AssemblyInfo.cs
+D:\Dev\.net\core-concepts\DelegateAndEvent\Subscriber\obj\Debug\net8.0\Subscriber.csproj.CoreCompileInputs.cache
+D:\Dev\.net\core-concepts\DelegateAndEvent\Subscriber\obj\Debug\net8.0\Subscriber.dll
+D:\Dev\.net\core-concepts\DelegateAndEvent\Subscriber\obj\Debug\net8.0\refint\Subscriber.dll
+D:\Dev\.net\core-concepts\DelegateAndEvent\Subscriber\obj\Debug\net8.0\Subscriber.pdb
+D:\Dev\.net\core-concepts\DelegateAndEvent\Subscriber\obj\Debug\net8.0\ref\Subscriber.dll

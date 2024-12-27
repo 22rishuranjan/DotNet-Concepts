@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QEFtl6luXac=",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\.net\\core-concepts\\DelegateAndEvent\\DelegateAndEvent\\DelegateAndEvent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rishu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
